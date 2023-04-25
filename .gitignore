@@ -16,7 +16,6 @@ vfastLog*
 work/
 coverage
 *.drawio
-test*
 input.txt
 xrun.*
 verdiLog
