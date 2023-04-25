@@ -1,9 +1,3 @@
-# AAML2022 Lab1
-
-
-Brief introduction of Lab1
-
-
 ## Directory Structure
 ```bash
 .
