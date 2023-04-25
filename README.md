@@ -31,6 +31,6 @@ Brief introduction of Lab1
 - `make verif3`
     - Run the code with #3 test case.
 - `make real`
-    - RUn the code with #4 test case.
+    - Run the code with #4 test case.
 
 
